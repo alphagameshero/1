@@ -2,7 +2,7 @@
 true
 
 //Show Featured Games? (true/false)
-false
+true
 
 
 //Featured Game Comment:
