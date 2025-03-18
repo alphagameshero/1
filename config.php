@@ -1,8 +1,8 @@
 //Show Ads? (true/false)
-false
+true
 
 //Show Featured Games? (true/false)
-false
+true
 
 
 //Featured Game Comment:
